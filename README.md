@@ -14,3 +14,9 @@ Rapport d'activité (distanciel)
 ## 08 décembre 2025 — Activités du jour
 - Point sur les avancements du projet T-DEV_700
 - Review et feedback des 10 projets ESP
+
+## 19 janvier 2026 — Activités du jour
+- Revue du projet Zoidberg & des critères d'évalution
+- Exploration du dataset
+- Modèle baseline avec Teachable Machine
+- Initilisation du notebook avec les différentes étapes du projet 
