@@ -20,3 +20,19 @@ Rapport d'activité (distanciel)
 - Exploration du dataset
 - Modèle baseline avec Teachable Machine
 - Initilisation du notebook avec les différentes étapes du projet 
+
+26 janvier 2026 — Activités du jour
+
+### Projet Zoidberg
+- Tests de plusieurs modèles de classification avec `scikit-learn`
+  - Régression logistique
+  - Random Forest
+  - SVM
+- Comparaison des performances (accuracy, précision, rappel)
+- Analyse des premiers résultats et identification des pistes d’amélioration
+
+### Projet ESP
+- Rédaction de la description du **Processus de Développement**
+  - Backend : architecture, responsabilités, flux de données
+  - Scraping : organisation du code, pipeline de collecte, nettoyage et stockage des données
+- Structuration du document pour alignement avec les documentations Frontend et Backend existantes
