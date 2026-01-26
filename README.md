@@ -21,7 +21,7 @@ Rapport d'activité (distanciel)
 - Modèle baseline avec Teachable Machine
 - Initilisation du notebook avec les différentes étapes du projet 
 
-26 janvier 2026 — Activités du jour
+## 26 janvier 2026 — Activités du jour
 
 ### Projet Zoidberg
 - Tests de plusieurs modèles de classification avec `scikit-learn`
