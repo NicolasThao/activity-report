@@ -36,3 +36,14 @@ Rapport d'activité (distanciel)
   - Backend : architecture, responsabilités, flux de données
   - Scraping : organisation du code, pipeline de collecte, nettoyage et stockage des données
 - Structuration du document pour alignement avec les documentations Frontend et Backend existantes
+
+## 02 février 2026 — Activités du jour
+
+### Projet Zoidberg
+- Mise en place de **MLflow** pour le suivi des entraînements de modèles de machine learning
+  - Tracking des métriques, paramètres et artifacts
+  - Structuration des expériences et des runs
+- Création d’un **environnement de développement conteneurisé** avec Docker
+  - Dockerisation de l’environnement ML
+  - Facilitation de la reproductibilité et du travail en groupe
+  
