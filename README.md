@@ -47,3 +47,12 @@ Rapport d'activité (distanciel)
   - Dockerisation de l’environnement ML
   - Facilitation de la reproductibilité et du travail en groupe
   
+## 09 février 2026 — Activités du jour
+
+### Projet ESP
+- Rédaction de la description du **processus de développement des IA**
+  - Définition des différentes briques IA du projet
+  - Formalisation des étapes : collecte de données, préparation, entraînement, évaluation
+  - Description des flux entre les modèles et le backend
+  - Documentation des outils utilisés (tracking, versioning, déploiement)
+- Structuration du document pour intégration dans la documentation technique globale du projet
