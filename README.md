@@ -61,7 +61,7 @@ Rapport d'activité (distanciel)
 
 ### Projet ESP
 - Conception de wireframes sur Figma
-  - Réalisation des maquettes Low-Fidelity des principales pages
+  - Réalisation des maquettes Low-Fidelity des pages principales
   - Structuration des parcours utilisateurs
   - Définition de la hiérarchie de l’information (zones, blocs fonctionnels, navigation)
 - Préparation de la base pour la future charte graphique et les maquettes High-Fidelity
