@@ -65,3 +65,13 @@ Rapport d'activité (distanciel)
   - Structuration des parcours utilisateurs
   - Définition de la hiérarchie de l’information (zones, blocs fonctionnels, navigation)
 - Préparation de la base pour la future charte graphique et les maquettes High-Fidelity
+
+## 23 février 2026 — Activités du jour
+
+### Projet ESP
+- Recherche de sources de données pour les briques IA du projet
+  - Identification de datasets publics et exploitables
+  - Analyse de la qualité et de la volumétrie des données disponibles
+  - Vérification des formats (CSV, JSON, API, etc.)
+  - Étude des contraintes légales et d’utilisation (licences, RGPD)
+- Sélection préliminaire des sources pertinentes pour les phases de préparation et d’entraînement des modèles
