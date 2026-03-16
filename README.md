@@ -75,3 +75,15 @@ Rapport d'activité (distanciel)
   - Vérification des formats (CSV, JSON, API, etc.)
   - Étude des contraintes légales et d’utilisation (licences, RGPD)
 - Sélection préliminaire des sources pertinentes pour les phases de préparation et d’entraînement des modèles
+
+## 16 mars 2026 — Activités du jour
+
+### Projet ESP
+- Préparation du **follow-up du projet**
+  - Réalisation du support de présentation (PowerPoint)
+  - Revue des documents du projet
+  - Vérification de la cohérence entre les différentes documentations
+
+### Projet Zoidberg
+- Étude des principes fondamentaux des réseaux de neurones
+- Exploration d’exemples pratiques pour mieux comprendre le fonctionnement des modèles
