@@ -87,3 +87,12 @@ Rapport d'activité (distanciel)
 ### Projet Zoidberg
 - Étude des principes fondamentaux des réseaux de neurones
 - Exploration d’exemples pratiques pour mieux comprendre le fonctionnement des modèles
+
+## 23 mars 2026 — Activités du jour
+
+### Projet ESP
+- Préparation du **follow-up 2**
+  - Mise à jour du support de présentation (PowerPoint)
+  - Synthèse des avancées du projet
+  - Revue et ajustement des documents
+  - Préparation des éléments de présentation orale
