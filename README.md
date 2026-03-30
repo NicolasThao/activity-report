@@ -96,3 +96,14 @@ Rapport d'activité (distanciel)
   - Synthèse des avancées du projet
   - Revue et ajustement des documents
   - Préparation des éléments de présentation orale
+ 
+## 30 mars 2026 — Activités du jour
+
+### Projet ESP
+- Réalisation de la réunion **Follow-up 2**
+  - Présentation des avancées de l'ESP-800
+  - Échanges et retours sur la gestion de projet
+
+- Tests d’estimation du coût de compute pour l’entraînement des modèles LLM
+  - Analyse des besoins en ressources (GPU, VRAM, temps d’entraînement)
+  - Identification des contraintes techniques et pistes d’optimisation
