@@ -107,3 +107,15 @@ Rapport d'activité (distanciel)
 - Tests d’estimation du coût de compute pour l’entraînement des modèles LLM
   - Analyse des besoins en ressources (GPU, VRAM, temps d’entraînement)
   - Identification des contraintes techniques et pistes d’optimisation
+
+## 13 avril 2026 — Activités du jour
+
+### Projet ESP
+- Formation au **scraping de données**
+  - Compréhension des techniques de collecte automatisée (requests, parsing HTML)
+  - Identification des bonnes pratiques (respect des sites, structuration des données)
+
+- Formation à la mise en place de **systèmes d’IA agentic sur VPS**
+  - Découverte des architectures d’agents (orchestration, tâches autonomes)
+  - Déploiement et exécution sur serveur privé virtuel (VPS)
+  - Premières expérimentations de mise en production
