@@ -119,3 +119,12 @@ Rapport d'activité (distanciel)
   - Découverte des architectures d’agents (orchestration, tâches autonomes)
   - Déploiement et exécution sur serveur privé virtuel (VPS)
   - Premières expérimentations de mise en production
+
+## 20 avril 2026 — Activités du jour
+
+### Projet Zoidberg
+
+- Mise en place d'un pipeline **AutoML avec H2O**
+  - Automatisation de l'entraînement et de la sélection des meilleurs modèles
+- Tracking des expériences avec **MLflow**
+  - Suivi des paramètres, des métriques de performance et des modèles générés par H2O
