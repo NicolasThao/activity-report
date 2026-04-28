@@ -128,3 +128,12 @@ Rapport d'activité (distanciel)
   - Automatisation de l'entraînement et de la sélection des meilleurs modèles
 - Tracking des expériences avec **MLflow**
   - Suivi des paramètres, des métriques de performance et des modèles générés par H2O
+
+## 28 avril 2026 — Activités du jour
+
+### Projet Zoidberg
+
+- Analyse exploratoire avancée (EDA) des radiographies pulmonaires
+  - Étude géométrique, analyse des textures et détection d'anomalies des images
+- Modélisation Deep Learning avec PyTorch et Transfer Learning
+  - Implémentation d'une architecture DenseNet121 avec redimensionnement (224x224) et data augmentation
