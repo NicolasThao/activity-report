@@ -137,3 +137,15 @@ Rapport d'activité (distanciel)
   - Étude géométrique, analyse des textures et détection d'anomalies des images
 - Modélisation Deep Learning avec PyTorch et Transfer Learning
   - Implémentation d'une architecture DenseNet121 avec redimensionnement (224x224) et data augmentation
+
+## 29 avril 2026 — Activités du jour
+
+### Projet Zoidberg
+- Implémentation d’un entraînement de **CNN simple**
+  - Mise en place de l’architecture du modèle
+  - Entraînement sur le dataset préparé
+
+- Validation et optimisation du modèle
+  - Utilisation de la **cross-validation** pour évaluer la robustesse
+  - Optimisation du seuil de décision pour minimiser les faux négatifs
+  - Analyse des performances (f1-score, recall, matrice de confusion)
