@@ -149,3 +149,12 @@ Rapport d'activité (distanciel)
   - Utilisation de la **cross-validation** pour évaluer la robustesse
   - Optimisation du seuil de décision pour minimiser les faux négatifs
   - Analyse des performances (f1-score, recall, matrice de confusion)
+
+ ## 01 juin 2026 — Activités du jour
+
+  ### Projet Zoidberg
+  - Préparation des rendus finaux
+  - Préparation du dépôt dans le repo de groupe (dossier personnel, `.gitignore`, README)
+  - Ré-exécution complète du notebook pour le rendu
+  - Début de refonte du support de présentation suite au retour du Follow Up 3
+  
